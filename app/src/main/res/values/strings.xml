@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">TestLag</string>
+    <string name="app_name">TestGraphics</string>
+    <string name="set_number_points">Задать количество точек</string>
+    <string name="insert_the_number">Введите число</string>
+    <string name="start">Поехали</string>
+    <string name="line">Линия</string>
+    <string name="table_points">Таблица точек</string>
 </resources>
